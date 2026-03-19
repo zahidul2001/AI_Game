@@ -1,4 +1,4 @@
-# 🎮 AI Games Hub
+# 🎮 AI Games
 
 A collection of classic games built with Python, featuring intelligent AI opponents powered by algorithms like **Minimax** and **Alpha-Beta Pruning**. This project serves as a learning resource for understanding AI decision-making in game development.
 
